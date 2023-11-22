@@ -1,2 +1,2 @@
 # array-sorting-algorithms
-USO Laborator 08 - Dezvoltarea aplicațiilor
+# USO Laborator 08 - Dezvoltarea aplicațiilor
